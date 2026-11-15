@@ -34,14 +34,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - name: Build Static Distribution Directory
         run: |
           mkdir -p dist
-          # Copy web frontend files to root of site
           cp -r web/* dist/
-          # Copy processed GeoJSON datasets
           mkdir -p dist/data/processed
           cp data/processed/*.geojson dist/data/processed/ 2>/dev/null || true
 
