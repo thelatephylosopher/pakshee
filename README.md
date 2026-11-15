@@ -1,6 +1,8 @@
 # Pakshee • पक्षी
 > *A sonified air quality experience — hear how India breathes.*
 
+Made my Cuta little baybe
+
 **Pakshee** (Hindi for *bird*) is an interactive sonic cartography of ambient air quality across the Indian subcontinent. Rather than relying solely on abstract numbers and color bands, Pakshee transforms atmospheric particulate matter (**PM2.5**) into real-time harmonic dissonance, texture, and timbre.
 
 Users can click any monitoring station across India, explore scroll-driven regional narratives, and investigate the **"Silent Zones"**—districts where millions of citizens breathe unmonitored air.
