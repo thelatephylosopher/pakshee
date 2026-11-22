@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": "2026-11-22T14:06:18.536803+00:00",
+    "generated": "2026-11-22T23:16:30.293637+00:00",
     "source": "Pakshee Sample Fallback",
     "totalStations": 10,
     "activeStations": 10,
@@ -24,7 +24,7 @@
         "pm25": 142.0,
         "aqiCategory": "Very Poor",
         "aqiColor": "#e74c3c",
-        "lastUpdated": "2026-11-22T14:06:18.536745+00:00",
+        "lastUpdated": "2026-11-22T23:16:30.293578+00:00",
         "stale": false
       }
     },
@@ -44,7 +44,7 @@
         "pm25": 58.0,
         "aqiCategory": "Satisfactory",
         "aqiColor": "#a2d729",
-        "lastUpdated": "2026-11-22T14:06:18.536761+00:00",
+        "lastUpdated": "2026-11-22T23:16:30.293596+00:00",
         "stale": false
       }
     },
@@ -64,7 +64,7 @@
         "pm25": 42.0,
         "aqiCategory": "Satisfactory",
         "aqiColor": "#a2d729",
-        "lastUpdated": "2026-11-22T14:06:18.536764+00:00",
+        "lastUpdated": "2026-11-22T23:16:30.293600+00:00",
         "stale": false
       }
     },
@@ -84,7 +84,7 @@
         "pm25": 78.5,
         "aqiCategory": "Moderate",
         "aqiColor": "#f1c40f",
-        "lastUpdated": "2026-11-22T14:06:18.536767+00:00",
+        "lastUpdated": "2026-11-22T23:16:30.293603+00:00",
         "stale": false
       }
     },
@@ -104,7 +104,7 @@
         "pm25": 65.0,
         "aqiCategory": "Moderate",
         "aqiColor": "#f1c40f",
-        "lastUpdated": "2026-11-22T14:06:18.536773+00:00",
+        "lastUpdated": "2026-11-22T23:16:30.293606+00:00",
         "stale": false
       }
     },
@@ -124,7 +124,7 @@
         "pm25": 88.0,
         "aqiCategory": "Moderate",
         "aqiColor": "#f1c40f",
-        "lastUpdated": "2026-11-22T14:06:18.536775+00:00",
+        "lastUpdated": "2026-11-22T23:16:30.293609+00:00",
         "stale": false
       }
     },
@@ -144,7 +144,7 @@
         "pm25": 32.0,
         "aqiCategory": "Satisfactory",
         "aqiColor": "#a2d729",
-        "lastUpdated": "2026-11-22T14:06:18.536778+00:00",
+        "lastUpdated": "2026-11-22T23:16:30.293611+00:00",
         "stale": false
       }
     },
@@ -164,7 +164,7 @@
         "pm25": 54.0,
         "aqiCategory": "Satisfactory",
         "aqiColor": "#a2d729",
-        "lastUpdated": "2026-11-22T14:06:18.536794+00:00",
+        "lastUpdated": "2026-11-22T23:16:30.293628+00:00",
         "stale": false
       }
     },
@@ -184,7 +184,7 @@
         "pm25": 48.0,
         "aqiCategory": "Satisfactory",
         "aqiColor": "#a2d729",
-        "lastUpdated": "2026-11-22T14:06:18.536798+00:00",
+        "lastUpdated": "2026-11-22T23:16:30.293632+00:00",
         "stale": false
       }
     },
@@ -204,7 +204,7 @@
         "pm25": 71.0,
         "aqiCategory": "Moderate",
         "aqiColor": "#f1c40f",
-        "lastUpdated": "2026-11-22T14:06:18.536800+00:00",
+        "lastUpdated": "2026-11-22T23:16:30.293635+00:00",
         "stale": false
       }
     }
